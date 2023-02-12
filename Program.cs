@@ -92,4 +92,5 @@ Console.WriteLine("TryOfSumiSOdd {0} + {1}  = {2}", first, second, resultt);
 // Console.WriteLine("TryOfSumiSOdd = {0}", TryOfSumIfOdd(first, second, out sum));
 
 // Console.WriteLine("MaxOfTwo(({0}),"{1};") = {2}", first , second , MaxOfTwo(first,second));
-// Console.ReadKey();
+// Console.ReadKey();fdsfsdfds
+////dlkfhsdlkgfdsmf
